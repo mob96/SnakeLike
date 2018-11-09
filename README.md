@@ -1,7 +1,7 @@
 # SnakeLike
 An implementation the game Snake using the Roguelike API libtcod.
 
-#Controls:
+# Controls:
 
 Move - Arrow Keys
 
